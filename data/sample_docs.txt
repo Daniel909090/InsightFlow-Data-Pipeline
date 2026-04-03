@@ -1,0 +1,3 @@
+Cloud computing allows scalable infrastructure.
+AI systems use data to generate responses.
+APIs connect different systems.
